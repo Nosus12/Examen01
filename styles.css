@@ -1,0 +1,22 @@
+#contenedorHeader{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.telefonoDiv{
+    width: 1408px;
+    height: 59px;
+    background-color:#000000;
+    display: flex;
+}
+
+.tituloBlanco{
+    width: 121;
+    height: 20;
+    color: #ffffff;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
