@@ -20,3 +20,63 @@
     font-weight: lighter;
 }
 
+#billetes{
+    width: 1408px;
+    height: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    background-color: bisque;
+    margin-top: 2px;
+}
+
+#pantalla{
+    width: 462px;
+    height: 93;
+    background-color: #4F5B49;
+}
+
+#fondoGris{
+    background-color: #5F625E;
+    width: 462px;
+    border-radius: 10px;
+    height: 636px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#contenedorNumeros{
+    display: flex;
+    margin-top: 0px;
+}
+
+.rowTablero{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.numerin{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.numberDiv{
+    width: 85px;
+    height: 70px;
+    display: flex;
+    flex-direction: column;
+    border-radius:5px;
+    background-color: #F39C11;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    margin: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+}
